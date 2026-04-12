@@ -1,3 +1,2 @@
 # THE-BEST-555-LED-Chaser
-This is my attempt on my first hackclub starter project, the Blinky Board (formally known as the 555 LED Chaser).
-<img width="1280" height="374" alt="Screenshot 2026-03-19 at 12 02 35 AM" src="https://github.com/user-attachments/assets/a81300be-f3b5-40eb-92a5-d532d3697e35" />
+<img width="1065" height="505" alt="Screenshot 2026-04-11 at 9 59 14 PM" src="https://github.com/user-attachments/assets/928690f2-105e-4fdf-a9e2-3b9fe7c4a7b0" />
